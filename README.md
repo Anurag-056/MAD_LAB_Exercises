@@ -1,1 +1,1 @@
-# MAD_LAB_Exercis
+# MAD_LAB_Exercises
